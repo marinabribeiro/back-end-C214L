@@ -1,5 +1,5 @@
 <h1 align="center"> 
-    :construction:  Projeto finalizado  :construction:
+      Projeto finalizado 
 </h1>
 
 ## 💻 Sobre
